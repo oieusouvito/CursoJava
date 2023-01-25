@@ -5,5 +5,5 @@
  * @author dandf
  *
  */
-module sintaxeBasica {
+module Programa {
 }
