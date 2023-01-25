@@ -29,3 +29,8 @@ build
 gradle
 gradlew
 gradlew.bat
+
+.settings/
+bin/
+.classpath
+.project
