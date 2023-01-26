@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author dandf
- *
- */
-module bytebank {
-}
