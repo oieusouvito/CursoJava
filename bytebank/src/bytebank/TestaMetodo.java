@@ -8,5 +8,9 @@ public class TestaMetodo {
 		conta.deposita(500);
 		
 		System.out.println(conta.saldo);
+		
+		boolean conseguiuRetirar = conta.saca(50);
+		System.out.println(conta.saldo);
+		System.out.println(conseguiuRetirar);
 	}
 }
